@@ -36,7 +36,6 @@
  * ------------------------------------------------------------------- 
  */
 @import url("fonts.css");
-@import url("font-awesome/css/font-awesome.min.css");
 @import url("micons/micons.css");
 
 
@@ -1636,7 +1635,7 @@ header .logo a {
 #resume .timeline-header {
 	float: left;
 	width: 35%;
-	padding-right: 90px;
+	padding-right: 70px;
 	text-align: right;
 }
 #resume .timeline-header h3 {
@@ -2159,7 +2158,7 @@ header .logo a {
 	border: none;
 }
 #stats .icon-part i {
-	font-size: 4.8rem;
+	font-size: 3.8rem;
 	color: #000000;
 }
 #stats .stat-count {
@@ -2612,6 +2611,7 @@ NAV BAR
 	color: #fff;
 	line-height: 65px;
 	font-size: 2.4rem;
+	font-family: "poppins-semibold", sans-serif;
 }
 
 .nav div.main_list ul li a:hover {
@@ -2670,7 +2670,7 @@ NAV BAR
 		right: 0;
 		left: 0;
 		bottom: 0;
-		background-color: rgba(17, 17, 17, 0.767);
+		background-color: #313131;
 		/*same background color of navbar*/
 		background-position: center top;
 	}
@@ -2682,6 +2682,7 @@ NAV BAR
 		text-align: center;
 		width: 100%;
 		font-size: 3rem;
+		font-family: "poppins-semibold", sans-serif;
 		padding: 20px;
 	}
 	.nav div.media_button {
@@ -2883,7 +2884,7 @@ NAV BAR
 
 .affix {
 	padding: 0;
-	background-color: rgba(31, 28, 28, 0.795);
+	background-color: #313131;
 }
 
 .myH2 {
