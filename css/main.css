@@ -1747,7 +1747,7 @@ header .logo a {
  *
  * ------------------------------------------------------------------- 
  */
-#portfolio {
+ #portfolio {
 	background: #FFFFFF;
 	padding-top: 12rem;
 	padding-bottom: 12rem;
@@ -2157,7 +2157,7 @@ header .logo a {
 	border: none;
 }
 #stats .icon-part i {
-	font-size: 3.8rem;
+	font-size: 4.8rem;
 	color: #000000;
 }
 #stats .stat-count {
@@ -2553,6 +2553,8 @@ footer .copyright span:last-child::after {
 #go-top a:hover {
 	background: #000000;
 }
+
+/*# sourceMappingURL=main.css.map */
 
 /*
 NAV BAR
